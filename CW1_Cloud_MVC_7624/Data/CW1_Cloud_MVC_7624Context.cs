@@ -15,5 +15,6 @@ namespace CW1_Cloud_MVC_7624.Data
         }
 
         public DbSet<CW1_Cloud_MVC_7624.Models.Product> Product { get; set; }
+        public DbSet<Category> Category { get; set; }
     }
 }

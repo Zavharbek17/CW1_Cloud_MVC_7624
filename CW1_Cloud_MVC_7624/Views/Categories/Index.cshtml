@@ -1,4 +1,4 @@
-﻿@model IEnumerable<CW1_Cloud_MVC_7624.Models.Product>
+﻿@model IEnumerable<CW1_Cloud_MVC_7624.Models.Category>
 
 @{
     ViewData["Title"] = "Index";
@@ -18,12 +18,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.Description)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Category)
-            </th>
             <th></th>
         </tr>
     </thead>
@@ -36,12 +30,6 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            <th>
-                @Html.DisplayFor(modelItem => item.Category.Name)
-            </th>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |

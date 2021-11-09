@@ -151,3 +151,9 @@ C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug
 C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
 C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\bin\Debug\net5.0\aws-beanstalk-tools-defaults.json
+C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Zavharbek\Desktop\Cloud\CW1_Cloud_MVC_7624\CW1_Cloud_MVC_7624\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
